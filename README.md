@@ -87,6 +87,13 @@ Here are some ideas to get you started:
 
 </td><td>
 
+|Title | Stars | Technologies|
+|--|--|--|
+| [Py-kémon](https://github.com/Flutter13264-r/py-kemon) | <img alt="Stars" src="https://img.shields.io/github/stars/Flutter13264-r/py-kemon?style=flat-square&labelColor=black"/> | ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
+| [Spotify Button Presser](https://github.com/drkostas/SpotiClick) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/SpotiClick?style=flat-square&labelColor=black"/> | ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
+
+</td></tr> </table>
+
 
 </td></tr> </table>
 
