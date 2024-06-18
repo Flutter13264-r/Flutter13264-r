@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Essay-Slayer AI](https://github.com/Flutter13264-r/Essay-Slayer) | <img alt="Stars" src="https://img.shields.io/github/stars/Flutter13264-r/Essay-Slayer?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [Essay-Slayer AI](https://github.com/Flutter13264-r/Essay-Slayer) | <img alt="Stars" src="https://img.shields.io/github/stars/Flutter13264-r/Essay-Slayer?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 
 </td><td>
