@@ -111,4 +111,4 @@ My Github Stats
 <br>:
 
 </details>
-#Format and few responsories forked from: drkostas
+#Format and few repositories forked from: drkostas
